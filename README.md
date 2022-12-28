@@ -7,8 +7,6 @@ Projeto para mostrar avaliação do publico sobre os filmes
 	🚧  FilmesLab 🚀 Possivel futuras atualizações...  🚧
 </h2>
 
-<img src="https://www.canva.com/design/DAFWFxg-FzA/view"><img/>
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
