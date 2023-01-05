@@ -12,6 +12,7 @@ Projeto para mostrar avaliação do publico sobre os filmes
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
+- [Vite](https://vitejs.dev/)
 
 # Licença
 
